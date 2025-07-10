@@ -2,3 +2,11 @@
 *.vscode
 *.idea
 *.metadata
+*.project
+*.classpath
+*.iml
+*.log
+*.DS_Store
+*.swp
+*.swo
+*.tmp

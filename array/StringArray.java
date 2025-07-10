@@ -19,5 +19,30 @@ public class StringArray {
         for (String value : str) {
             System.out.println(value);
         }
+
+        // Alternative way to declare and initialize an array
+        String[] names = { "Ajit", "Kumar", "India" };
+
+        // Print the array elements using a for loop
+        System.out.println("Array elements using for loop with alternative declaration:");
+        for (int i = 0; i < names.length; i++) {
+            System.out.println(names[i]);
+        }
+
+        // Print the array elements using an enhanced for loop with alternative
+        // declaration
+        System.out.println("Array elements using enhanced for loop with alternative declaration:");
+
+        for (String value : names) {
+            System.out.println(value);
+        }
+
+        // dDeclaring an array with alternative syntax
+        String[] names2 = new String[] { "Ajit", "Kumar", "India" };
+        // Print the array elements using a for loop with alternative declaration
+        System.out.println("Array elements using for loop with alternative declaration:");
+        for (int i = 0; i < names2.length; i++) {
+            System.out.println(names2[i]);
+        }
     }
 }
