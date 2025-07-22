@@ -1,8 +1,5 @@
 package array;
 
-
-
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -12,8 +9,6 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class ArrayDemo {
-
-
 
     private static final Scanner scanner = new Scanner(System.in);
 
