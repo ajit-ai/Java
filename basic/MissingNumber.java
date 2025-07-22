@@ -1,4 +1,4 @@
-package Sample;
+package basic;
 
 
 class MissingNumber 

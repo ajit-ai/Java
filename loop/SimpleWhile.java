@@ -7,7 +7,4 @@ public class SimpleWhile {
         while(i>0);
         System.out.println(i);
     }
-    
-
-    
 }

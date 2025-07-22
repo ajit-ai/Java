@@ -1,4 +1,4 @@
-package Sample;
+package basic;
 
 public class MissingNumber2 {
     public static void main(String[] args) {
