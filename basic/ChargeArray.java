@@ -1,4 +1,4 @@
-package array;
+package basic;
 
 public class ChargeArray {
     public static void main(String[] args) {

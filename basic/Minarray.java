@@ -1,4 +1,4 @@
-package array;
+package basic;
 
 public class Minarray {
     public static void main(String[] args) {

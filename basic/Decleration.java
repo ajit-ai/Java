@@ -1,4 +1,4 @@
-package array;
+package basic;
 
 public class Decleration {
     public static void main(String[] args) {

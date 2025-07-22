@@ -1,4 +1,4 @@
-package array;
+package basic;
 
 public class Instanceof {
     public static void main(String[] args) {
