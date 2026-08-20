@@ -10,11 +10,10 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <!-- Change this to match the Java version you are using (e.g., 11, 17, 21) -->
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+             <maven.compiler.source>21</maven.compiler.source>
+             <maven.compiler.target>21</maven.compiler.target>
+             <maven.compiler.release>21</maven.compiler.release> 
+    </properties>         
 
     <!-- If your code needs external libraries, you will list them here later -->
     <dependencies>
