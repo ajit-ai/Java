@@ -3,9 +3,12 @@
 
 name: Maven Package
 
+# Replace the release block with this:
 on:
-  release:
-    types: [created]
+  push:
+    branches: [ "main" ] # Change "main" to your default branch name if it is master/dev
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   build:
